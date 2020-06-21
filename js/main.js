@@ -4,23 +4,19 @@
 
   //タイピングの課題単語を数列で設定
   const words = [
-    'ruby',
-    'python',
-    'php',
-    'java',
+    'typing',
+    'player',
     'javascript',
-    'jquery',
-    'nodejs',
-    'linux',
-    'centos',
-    'vagrant',
-    'apache',
-    'mysql',
+    'skyblue',
+    'muscle',
+    'airwolk',
+    'germansuplex',
+    'mysql-uroot',
     'laravel',
-    'docker',
-    'xampp',
-    'hoge',
-    'vscode',
+    'tomstonepildriver',
+    'powerbomb',
+    'momotarou',
+    'okamototaro',
   ];
   let word ;
   let loc ;
