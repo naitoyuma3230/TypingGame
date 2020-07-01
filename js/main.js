@@ -9,14 +9,10 @@
     'javascript',
     'skyblue',
     'muscle',
-    'airwolk',
-    'germansuplex',
-    'mysql-uroot',
-    'laravel',
-    'tomstonepildriver',
-    'powerbomb',
-    'momotarou',
+    'plactice',
+    'hilcrhyme',
     'okamototaro',
+    'basketball'
   ];
   let word ;
   let loc ;
